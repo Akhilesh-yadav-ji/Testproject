@@ -9594,3 +9594,15 @@ java.util.zip.ZipException: zip END header not found
 
 !ENTRY org.eclipse.egit.ui 4 0 2024-09-17 02:56:10.582
 !MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-09-17 02:58:26.754
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\ay323\git\project1\.git]
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-17 02:58:27.108
+!MESSAGE Classpath changed for project: project1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-17 03:08:32.466
+!MESSAGE Classpath changed for project: project1
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 03:09:48.108
+!MESSAGE Can't connect to any repository: 
