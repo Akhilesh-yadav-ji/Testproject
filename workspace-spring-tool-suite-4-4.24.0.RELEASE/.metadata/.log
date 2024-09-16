@@ -9460,3 +9460,6 @@ java.util.zip.ZipException: zip END header not found
 
 !ENTRY org.eclipse.egit.ui 4 0 2024-09-17 01:57:41.445
 !MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 01:58:13.333
+!MESSAGE Can't connect to any repository: 
