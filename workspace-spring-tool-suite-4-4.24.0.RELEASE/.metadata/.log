@@ -9268,3 +9268,9 @@ java.util.zip.ZipException: zip END header not found
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 23:10:20.722
 !MESSAGE Classpath changed for project: GIthubsetupeclips
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-16 23:11:45.446
+!MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-16 23:20:31.657
+!MESSAGE Can't connect to any repository: 
