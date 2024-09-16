@@ -7337,3 +7337,5 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.projectlo
 2024-09-16 21:50:02,484 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ay323\OneDrive\Documents\springdemoweb-1\src\test\resources
 2024-09-16 22:49:31,987 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-09-16 23:06:06,714 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-16 23:15:42,325 [Worker-3: Fetching remote refs from git@github.com:Akhilesh-yadav-ji/GithubBasicproject.git] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2024-09-16 23:15:42,554 [Worker-3: Fetching remote refs from git@github.com:Akhilesh-yadav-ji/GithubBasicproject.git] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory; using Nio2ServiceFactoryFactory
