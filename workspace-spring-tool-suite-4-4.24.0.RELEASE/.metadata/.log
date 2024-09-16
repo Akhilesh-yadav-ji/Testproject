@@ -9410,3 +9410,6 @@ org.eclipse.jgit.errors.NoWorkTreeException: Bare Repository has neither a worki
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-17 00:53:56.206
 !MESSAGE Classpath changed for project: Testproject
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 01:02:41.031
+!MESSAGE Can't connect to any repository: 
