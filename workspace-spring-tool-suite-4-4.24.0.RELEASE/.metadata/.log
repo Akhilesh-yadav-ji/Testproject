@@ -9609,3 +9609,9 @@ java.util.zip.ZipException: zip END header not found
 
 !ENTRY org.eclipse.egit.ui 4 0 2024-09-17 03:10:46.546
 !MESSAGE Can't connect to any repository: 
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-17 03:14:35.740
+!MESSAGE Classpath changed for project: springbootstesting
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 03:15:17.664
+!MESSAGE Can't connect to any repository: 
