@@ -1,0 +1,15 @@
+package Com.onetooneconnetion;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+
+public class OneToManyConnetionApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OneToManyConnetionApplication.class, args);
+		System.out.println("Radhe Radhe");
+	}
+
+}
