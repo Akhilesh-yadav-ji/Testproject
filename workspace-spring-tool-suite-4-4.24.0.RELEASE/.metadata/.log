@@ -9416,3 +9416,6 @@ org.eclipse.jgit.errors.NoWorkTreeException: Bare Repository has neither a worki
 
 !ENTRY org.eclipse.egit.ui 4 0 2024-09-17 01:03:23.058
 !MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 01:11:48.422
+!MESSAGE Can't connect to any repository: 
