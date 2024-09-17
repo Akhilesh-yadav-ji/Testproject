@@ -10019,3 +10019,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.R
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2024-09-17 07:16:15.356
 !MESSAGE close() called when useCnt is already zero for Repository[C:\Users\ay323\git\Testproject\.git]
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 07:18:03.881
+!MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 07:19:14.772
+!MESSAGE Can't connect to any repository: 
