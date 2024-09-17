@@ -10031,3 +10031,6 @@ Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jgit.lib.R
 
 !ENTRY org.eclipse.egit.ui 4 0 2024-09-17 07:33:11.946
 !MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-09-17 07:44:20.036
+!MESSAGE Can't connect to any repository: 
